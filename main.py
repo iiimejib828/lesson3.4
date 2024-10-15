@@ -7,3 +7,5 @@ for a in v:
         print('a меньше b')
     elif a > b:
         print('a больше b')
+    else:
+        print('a равно b')

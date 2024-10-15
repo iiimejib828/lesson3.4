@@ -5,4 +5,5 @@ b = 34
 for a in v:
     if a < b:
         print('a меньше b')
-        
+    elif a > b:
+        print('a больше b')
